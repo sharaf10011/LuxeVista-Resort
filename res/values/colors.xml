@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="luxury_blue">#1E3A8A</color>
+    <color name="luxury_blue_dark">#1E40AF</color>
+    <color name="luxury_gold">#D4AF37</color>
+    <color name="luxury_gold_dark">#B8860B</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="medium_gray">#9E9E9E</color>
+    <color name="ocean_blue">#0891B2</color>
+    <color name="success_green">#10B981</color>
+    <color name="error_red">#EF4444</color>
+</resources>
