@@ -19,6 +19,6 @@ and reservation management with Material Design UI.
 - Material Design UI
 
 ## Developed By
-Mohammed Saleem Mohammed Sharaf
-HND Computing & Software Engineering
-ICBT Campus | Cardiff Metropolitan University
+- Mohammed Sharaf
+- HND Computing & Software Engineering
+- ICBT Campus | Cardiff Metropolitan University
